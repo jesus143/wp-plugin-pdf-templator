@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { max-width:210mm; border-right:1px dashed #000;}
+.alignleft { float:left;}
+.alignright { float:right;}
+
+
